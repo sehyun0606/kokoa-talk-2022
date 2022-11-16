@@ -1,2 +1,2 @@
-# Kokao Clone 2022 Update
+# Kokao Talk 2022 Update
 
